@@ -22,6 +22,7 @@ balabibu lulu amiko第{{love_day.DATA}}天
 {{note_ch.DATA}}
 
 会有人一直在你身边 但我愿一直在你身后<3
+今日更新：已将地区改为北京 感谢王先生一直以来的支持 爱大狗 么么
 
 Sincerely yours,
 Pingo
